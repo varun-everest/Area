@@ -7,6 +7,8 @@ def calculate_area(a,b,h):
 def division_by_two(val):
 	return val//2
 
+def multiplication(val,h):
+	return val*h
 
 a = int(input())
 b = int(input())
